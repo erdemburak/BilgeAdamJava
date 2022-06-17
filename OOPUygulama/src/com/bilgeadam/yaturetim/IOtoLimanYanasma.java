@@ -1,5 +1,5 @@
 package com.bilgeadam.yaturetim;
 
-public interface OtoLimanYanasma {
+public interface IOtoLimanYanasma {
     public void otomatikOlarakLimanaYanas();
 }

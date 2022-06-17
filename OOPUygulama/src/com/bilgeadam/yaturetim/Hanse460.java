@@ -1,6 +1,6 @@
 package com.bilgeadam.yaturetim;
 
-public class Hanse460 extends Hanse implements OtoLimanYanasma{
+public class Hanse460 extends Hanse implements IOtoLimanYanasma {
 
     public Hanse460() {
         super(HanseModeller.HANSE460);

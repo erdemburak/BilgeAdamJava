@@ -1,6 +1,6 @@
 package com.bilgeadam.yaturetim;
 
-public class Dehler38SQ extends Dehler implements OtoLimanYanasma {
+public class Dehler38SQ extends Dehler implements IOtoLimanYanasma {
 
     public Dehler38SQ(){
         super(DehlerModeller.DEHLER38SQ);
